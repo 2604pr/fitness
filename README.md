@@ -1,21 +1,6 @@
-# FitnessPlanner
-
-FitnessPlanner is a comprehensive web application designed to help users manage their fitness routines efficiently. Built using the MERN stack (MongoDB, Express.js, React, and Node.js), the application offers a seamless user experience for tracking and organizing workouts. Users can easily register, log in, and log out, ensuring their data remains secure. The platform allows users to add, edit, view, and delete workouts, making it an essential tool for anyone looking to stay on top of their fitness goals with ease and precision.
-
-## Deployment
-To deploy this project run
-```
-git clone https://github.com/Ashlyn-Joshy/FitnessPlanner.git
-```
+# Fitness
 Enter into the project folder.
 
-Create .env file inside the Backend folder
-```
-PORT=5000
-MongoDB_database=yourDatabaseUrl
-
-JWT_secret=yourJWTsecretKey
-```
 Install backend dependencies using 
 ```
 cd Backend
